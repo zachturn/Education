@@ -1,0 +1,7 @@
+# Advanced R by Hadley Wickham
+## "Spark notes"
+========================================================
+
+This document is my personal companion piece to Hadley Wickham's [Advanced R](http://adv-r.had.co.nz/). As I read and work through the book, I will make note of the particularly useful and interesting results, all in one location for easy reference.
+
+## Data Structures
