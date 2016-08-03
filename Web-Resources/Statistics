@@ -4,8 +4,9 @@ http://stats.stackexchange.com/questions/27750/feature-selection-and-cross-valid
 High Level Feature Selection Discussion
 http://machinelearningmastery.com/an-introduction-to-feature-selection/
 
-Multiple Testing Correction
+Multiple Comparisons
 http://www.stat.berkeley.edu/~mgoldman/Section0402.pdf
+http://www.biochemia-medica.com/2011/21/203 
 
 MICE (Multiple Imputation by Chained Equations)
 https://www.jstatsoft.org/article/view/v045i03
